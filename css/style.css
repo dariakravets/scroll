@@ -1,0 +1,21 @@
+body {
+    background-color: #001a21;
+}
+
+.h1{
+    color: white;
+    font-family: Bahnschrift;
+    font-weight: lighter;
+}
+
+.quotes{
+    color: white;
+    font-family: Bahnschrift;
+    font-weight: lighter;
+    padding-top: 10px;
+}
+
+.loader{
+    padding-left: 330px;
+    width: 50px;
+}
